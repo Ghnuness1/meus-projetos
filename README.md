@@ -13,7 +13,7 @@ Este é um projeto de estudo pessoal recriando a página do Spotify usando HTML 
 
 ✔️ Finalidade: prática de layout, estilização, sem fins comerciais.
 
-[Veja o projeto](https://github.com/Ghnuness1/meus-projetos/tree/main/projeto-clone-pagina-login-spotify)
+[Veja o projeto](https://github.com/Ghnuness1/meus-projetos/tree/main/01_spotify-page)
 
 ---
 
