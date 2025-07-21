@@ -4,9 +4,9 @@ Bem-vindo ao meu repositório com os projetos que estou desenvolvendo enquanto e
 
 ---
 
-## 📚 Projeto de Prática - Clone Página Login Spotify
+## 📚 Projeto de Prática - Página Spotify
 
-Este é um projeto de estudo pessoal recriando a página de login do Spotify usando HTML e CSS.
+Este é um projeto de estudo pessoal recriando a página do Spotify usando HTML e CSS.
 
 🚫 Este projeto não possui nenhum vínculo com a empresa Spotify.  
 ✅ Todos os direitos do design original pertencem à Spotify AB.
