@@ -22,7 +22,6 @@ section {
   width: 324px;
   margin: auto;
   text-align: center;
-  padding: 0px 32px;
 }
 
 section h1 {
@@ -50,17 +49,6 @@ select {
   border: 1px solid #b3b3b3;
   border-radius: 5px;
   color: #fefefe;
-}
-
-form button {
-  padding: 15px;
-  border-radius: 100px;
-  background-color: #1ed760;
-  font-weight: bold;
-  font-size: 15px;
-  border: 1px solid #1ed760;
-  width: 100%;
-  margin: 25px auto;
 }
 
 .birthdate {
@@ -110,6 +98,7 @@ h6 {
   font-size: 15px;
   margin-bottom: 10px;
 }
+
 .checkbox-field {
   background-color: #2a2a2a;
   padding: 20px;
@@ -121,13 +110,18 @@ h6 {
 }
 
 .checkbox-field label {
-  margin-top: 0;
-  margin-left: 8px;
+  margin: 0 0 0 8px;
   font-weight: 400;
 }
 
-footer a {
-  color: #b3b3b3;
+form button {
+  padding: 15px;
+  border-radius: 100px;
+  border: 1px solid #1ed760;
+  background-color: #1ed760;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 25px;
 }
 
 footer {
@@ -135,5 +129,9 @@ footer {
   padding: 30px;
   font-size: 11px;
   text-align: center;
+  color: #b3b3b3;
+}
+
+footer a {
   color: #b3b3b3;
 }
