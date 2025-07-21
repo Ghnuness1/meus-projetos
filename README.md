@@ -19,4 +19,4 @@ Este é um projeto de estudo pessoal recriando a página de login do Spotify usa
 
 ## Contato
 
-Se quiser conversar, pode me chamar no [LinkedIn](in/gustavo-nunes-2402b82a1) ou [email](dev.gustavohn@gmail.com).
+Se quiser conversar, pode me chamar no [LinkedIn](https://www.linkedin.com/in/gustavo-nunes-2402b82a1/) ou [email](https://mail.google.com/mail/u/3/?ogbl#inbox).
