@@ -13,7 +13,7 @@ Este é um projeto de estudo pessoal recriando a página de login do Spotify usa
 
 ✔️ Finalidade: prática de layout, estilização, sem fins comerciais.
 
-[Veja o projeto]()
+[Veja o projeto](projeto-clone-pagina-login-spotify/index.html)
 
 ---
 
