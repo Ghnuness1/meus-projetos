@@ -1,0 +1,24 @@
+{
+  "name": "meus-projetos",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu repositório com os projetos que estou desenvolvendo enquanto estudo front-end!",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghnuness1/meus-projetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghnuness1/meus-projetos/issues"
+  },
+  "homepage": "https://github.com/Ghnuness1/meus-projetos#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
